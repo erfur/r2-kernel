@@ -1,0 +1,8 @@
+capstone ==4.0.2
+filebytes ==0.10.2
+plumbum ==1.7.0
+pyfzf ==0.2.2
+r2pipe ==1.6.0
+ropper
+tqdm ==4.62.1
+git+https://github.com/marin-m/vmlinux-to-elf@master
